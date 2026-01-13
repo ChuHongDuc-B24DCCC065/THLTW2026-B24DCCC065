@@ -95,4 +95,10 @@
 	{
 		component: './exception/404',
 	},
+	{
+    path: '/todo',
+    name: 'Todo App',
+    icon: 'smile',
+    component: '@/pages/todo', 
+  },
 ];
