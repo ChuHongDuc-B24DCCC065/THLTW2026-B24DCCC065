@@ -48,6 +48,19 @@
 		icon: 'ShoppingOutlined',
 		component: './ProductList',
 },
+{
+    path: '/guess-number',
+    name: 'Trò chơi đoán số',
+    icon: 'RobotOutlined',
+    component: './GuessNumber',
+  },
+  {
+    path: '/study-manager',
+    name: 'Quản lý học tập',
+    icon: 'book',
+    component: './StudyManager',
+  },
+
 
 	// DANH MUC HE THONG
 	// {
