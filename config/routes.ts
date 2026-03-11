@@ -48,6 +48,7 @@
 		icon: 'ShoppingOutlined',
 		component: './ProductList',
 },
+
 {
     path: '/guess-number',
     name: 'Trò chơi đoán số',
@@ -60,6 +61,20 @@
     icon: 'book',
     component: './StudyManager',
   },
+  {
+  path: '/oantuti',
+  name: 'Oẳn Tù Tì',
+  icon: 'SmileOutlined',
+  component: './oantuti',
+},
+{
+	path: '/qly-cau-hoi',
+	name: 'Quản lý câu hỏi',
+	icon: 'QuestionOutlined',
+	component: './Qlycauhoi',
+},
+  
+  
 
 
 	// DANH MUC HE THONG
@@ -99,9 +114,6 @@
 		hideInMenu: true,
 	},
 	{
-		path: '/',
-	},
-	{
 		path: '/403',
 		component: './exception/403/403Page',
 		layout: false,
@@ -120,4 +132,5 @@
     icon: 'smile',
     component: '@/pages/todo', 
   },
+  
 ];
