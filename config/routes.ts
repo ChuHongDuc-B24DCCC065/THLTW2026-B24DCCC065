@@ -73,6 +73,12 @@
 	icon: 'QuestionOutlined',
 	component: './Qlycauhoi',
 },
+{
+	path: '/dat-lich',
+	name: 'Đặt lịch',
+	icon: 'CalendarOutlined',
+	component: './Datlich',
+},
   
   
 
