@@ -79,6 +79,12 @@
 	icon: 'CalendarOutlined',
 	component: './Datlich',
 },
+{
+	path: '/qly-sovanbang',
+	name: 'Quản lý văn bằng tốt nghiệp',
+	icon: 'FileTextOutlined',
+	component: './Qlysovanbangtonghiep',
+},
   
   
 
