@@ -85,6 +85,12 @@
 	icon: 'FileTextOutlined',
 	component: './Qlysovanbangtonghiep',
 },
+{
+	path: '/qly-clb',
+	name: 'Quản lý CLB',
+	icon: 'TeamOutlined',
+	component: './Qlyclb',
+},
   
   
 
