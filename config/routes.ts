@@ -91,6 +91,12 @@
 	icon: 'TeamOutlined',
 	component: './Qlyclb',
 },
+{
+	path: '/travel-plan',
+	name: 'Quản lý lịch trình du lịch',
+	icon: 'CarOutlined',
+	component: './TravelPlan',
+},
   
   
 
