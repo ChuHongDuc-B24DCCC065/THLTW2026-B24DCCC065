@@ -97,6 +97,13 @@
 	icon: 'CarOutlined',
 	component: './TravelPlan',
 },
+{
+	path: '/qly-donhang',
+	name: ' Quản lý đơn hàng',
+	icon: 'EyeOutlined',
+	component: './Qlydonhang',
+
+},
   
   
 
