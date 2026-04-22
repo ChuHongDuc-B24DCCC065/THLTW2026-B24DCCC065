@@ -104,6 +104,12 @@
 	component: './Qlydonhang',
 
 },
+{
+	path: '/blog',
+	name: 'Quản lý Blog',
+	icon: 'ReadOutlined',
+	component: './Blog',
+},
   
   
 
