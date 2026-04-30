@@ -110,6 +110,12 @@
 	icon: 'ReadOutlined',
 	component: './Blog',
 },
+{
+	path: '/fitness',
+	name: 'Fitness Tracker',
+	icon: 'HeartOutlined',
+	component: './Fitness',
+},
   
   
 
