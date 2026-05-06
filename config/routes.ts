@@ -116,6 +116,12 @@
 	icon: 'HeartOutlined',
 	component: './Fitness',
 },
+{
+	path: '/personal-task',
+	name: 'Personal Task Manager',
+	icon: 'CheckCircleOutlined',
+	component: './Personal Task',
+},
   
   
 
